@@ -4,7 +4,7 @@ id: 01HRCB5Z5TZZFT6J37RNVQYC38
 author: Screenly, Inc.
 description: |
   Displays Power BI dashboards and reports with big focus on security.
-icon: 'https://playground.srly.io/edge-apps/powerbi-legacy/static/images/icon.svg'
+icon: https://playground.srly.io/edge-apps/icons/powerbi-legacy.svg
 categories:
   - Dashboards
 ready_signal: true
